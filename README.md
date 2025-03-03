@@ -11,6 +11,6 @@
 ![](Records/ProfilePrototype.jpg)
 
 
-![](Records/SimulationScreenshot.jpg)
+![](Records/SimulationScreenshot.png)
 
 The biped robot project I worked on throughout my first university year. 
